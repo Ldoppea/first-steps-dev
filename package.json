@@ -1,0 +1,6 @@
+{
+  "name": "first-steps-dev",
+  "scripts": {
+    "start": "npx docsify-cli serve"
+  }
+}
