@@ -44,3 +44,6 @@ Sommaire
 
 # Gestion de projet
 
+## Domain Driven Design
+
+- [lesdieuxducode.com - Introduction au Domain Driven Design](https://lesdieuxducode.com/blog/2019/7/introduction-au-domain-driven-design)
