@@ -20,6 +20,12 @@ Sommaire
 
 # DevOps
 
+## Integration continue (CI)
+
+- [youtube.com - Réussir ses mises en prod grâce à l'intégration continue](https://www.youtube.com/watch?v=70LqFphGmC8)
+- [bloag.soat.fr - Pourquoi mettre en place de l'intégration continue](https://blog.soat.fr/2013/04/pourquoi-mettre-en-place-de-lintegration-continue/)
+- [blog.axopen.com - L'intégration continue : qu'est-ce que c'est ?](https://blog.axopen.com/2019/07/lintegration-continue-quest-ce-que-cest/)
+- [Anglais] [github.com - Awesome CI and CD](https://github.com/cicdops/awesome-ciandcd)
 
 # Conception
 
