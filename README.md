@@ -38,5 +38,9 @@ Sommaire
 - [youtube.com - Architecture hexagonale pour les nuls](https://www.youtube.com/watch?v=Hi5aDfRe-aE)
 - [youtube.com - Architecture Hexagonale : Comment bien écrire ses tests ?](https://www.youtube.com/watch?v=4vBJAN3ttkc)
 
+## Test unitaires / Test Driver Development (TDD)
+
+- [youtube.com - TDD : pour que votre code soit testable et testé!](https://www.youtube.com/watch?v=EW98_rwUQec)
+
 # Gestion de projet
 
