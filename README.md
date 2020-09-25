@@ -29,6 +29,9 @@ Sommaire
 
 # Conception
 
+## Accessibilité
+
+- [developer.mozilla.org - Qu'est ce que l'accessibilité?](https://developer.mozilla.org/fr/docs/Apprendre/a11y/What_is_accessibility)
 
 # Gestion de projet
 
