@@ -33,5 +33,10 @@ Sommaire
 
 - [developer.mozilla.org - Qu'est ce que l'accessibilité?](https://developer.mozilla.org/fr/docs/Apprendre/a11y/What_is_accessibility)
 
+## Architecture hexagonale
+
+- [youtube.com - Architecture hexagonale pour les nuls](https://www.youtube.com/watch?v=Hi5aDfRe-aE)
+- [youtube.com - Architecture Hexagonale : Comment bien écrire ses tests ?](https://www.youtube.com/watch?v=4vBJAN3ttkc)
+
 # Gestion de projet
 
