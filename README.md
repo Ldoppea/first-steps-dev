@@ -15,7 +15,7 @@ Sommaire
 
 - [DevOps](#devops)
 - [Conception](#conception)
-- [Gestion de projet](#gestion-de-projet)
+- [Gestion de projet / bonnes pratiques](#gestion-de-projet-bonnes-pratiques)
 
 
 # DevOps
@@ -42,7 +42,7 @@ Sommaire
 
 - [youtube.com - TDD : pour que votre code soit testable et testé!](https://www.youtube.com/watch?v=EW98_rwUQec)
 
-# Gestion de projet
+# Gestion de projet / bonnes pratiques
 
 ## Domain Driven Design
 
