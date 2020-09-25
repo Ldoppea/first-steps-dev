@@ -47,3 +47,7 @@ Sommaire
 ## Domain Driven Design
 
 - [lesdieuxducode.com - Introduction au Domain Driven Design](https://lesdieuxducode.com/blog/2019/7/introduction-au-domain-driven-design)
+
+## Retrospectives
+
+- [blog.soat.fr - La rétrospective : qui ? quoi ? comment ?](https://blog.soat.fr/2018/12/retrospectives/)
