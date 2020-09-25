@@ -51,3 +51,8 @@ Sommaire
 ## Retrospectives
 
 - [blog.soat.fr - La rétrospective : qui ? quoi ? comment ?](https://blog.soat.fr/2018/12/retrospectives/)
+
+## Revue de code
+
+- [novaway.fr - Principes et avantages de la revue de code](https://www.novaway.fr/blog/tech/principes-et-avantages-de-la-revue-de-code)
+- [practicalprogramming.fr - Code review: comment faire une review constructive](https://practicalprogramming.fr/comment-faire-une-code-review/)
