@@ -7,7 +7,14 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
   <title>First Steps for Developers</title>
-  <link rel="stylesheet" href="//unpkg.com/docsify/themes/buble.css">
+  <link rel="stylesheet" href="//unpkg.com/docsify-themeable/dist/css/theme-simple.css">
+  <style>
+    :root {
+      --sidebar-width: 20rem;
+      --heading-h2-color: #667;
+      --heading-h2-font-size: var(--font-size-l);
+    }
+  </style>
 </head>
 <body>
   <noscript>This page requires JavaScript to work, please enable it or just read it on <a href="https://github.com/ldoppea/first-steps-dev">Here</a>.</noscript>
@@ -18,8 +25,25 @@
       repo: 'ldoppea/first-steps-dev',
       search: ['/']
     }
+
+    // Small TOC plugin
+    function insertTOC (hook, vm) {
+      hook.doneEach(() => {
+        const toc = document.querySelector('.toc');
+        if (toc) {
+          const headings = Array.from(document.querySelectorAll('#main h1')).slice(2);
+          let list = '';
+          headings.forEach(h => {
+            list += `- [${h.children[0].innerHTML}](#${h.getAttribute('id')})\n`;
+          });
+          toc.innerHTML = vm.compiler.compile(list).trim();
+        }
+      });
+    }
+    window.$docsify.plugins = [insertTOC];
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify-themeable"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
