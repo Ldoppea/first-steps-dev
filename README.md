@@ -2,7 +2,7 @@
 
 Le monde du développement est vaste. Il y a plein de concepts à découvrir, d'outils à apprendre et de méthodologies à maitriser et il peut être difficile de savoir par où commencer.
 
-Ceci est une liste qui regroupe des ressources gratuites qui pourront vous être utiles pour découvrir les divers concepts, outils et métodologies liés au monde du développement.
+Ceci est une liste qui regroupe des ressources gratuites qui pourront vous être utiles pour découvrir les divers concepts, outils et méthodologies liés au monde du développement.
 
 Chaque lien à sa place dans cette liste s'il peut aider un·e développeur·euse à découvrir le sujet en question.
 
@@ -32,14 +32,14 @@ Sommaire
 
 # DevOps
 
-## Integration continu (CI)
+## Intégration continue (CI)
 
 - [Réussir ses mises en prod grâce à l'intégration continue](https://www.youtube.com/watch?v=70LqFphGmC8) [youtube.com]
 - [Pourquoi mettre en place de l'intégration continue](https://blog.soat.fr/2013/04/pourquoi-mettre-en-place-de-lintegration-continue/) [bloag.soat.fr]
 - [L'intégration continue : qu'est-ce que c'est ?](https://blog.axopen.com/2019/07/lintegration-continue-quest-ce-que-cest/) [blog.axopen.com]
 - [Awesome CI and CD](https://github.com/cicdops/awesome-ciandcd) [github.com][🇺🇸]
 
-## Déploiement continue (CD)
+## Déploiement continu (CD)
 
 🚧
 
