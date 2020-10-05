@@ -69,3 +69,11 @@ Sommaire
 ## Test-Driven Development (TDD)
 
 - [TDD : pour que votre code soit testable et testé!](https://www.youtube.com/watch?v=EW98_rwUQec) [youtube.com]
+
+
+## State management
+
+- [Redux docs](https://redux.js.org/introduction/getting-started) [US]
+- [NgRx docs](https://ngrx.io/guide/store) [US]
+- [Vuex docs](https://vuex.vuejs.org/) [US]
+
