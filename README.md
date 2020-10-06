@@ -26,6 +26,12 @@ Sommaire
 - [Architecture hexagonale pour les nuls](https://www.youtube.com/watch?v=Hi5aDfRe-aE) [youtube.com]
 - [Architecture Hexagonale : Comment bien écrire ses tests ?](https://www.youtube.com/watch?v=4vBJAN3ttkc) [youtube.com]
 
+## State management
+
+- [Redux docs](https://redux.js.org/introduction/getting-started) [US]
+- [NgRx docs](https://ngrx.io/guide/store) [US]
+- [Vuex docs](https://vuex.vuejs.org/) [US]
+
 ## Cloud
 
 - [12 factor app](https://12factor.net/fr/) [12factor.net]
@@ -69,11 +75,4 @@ Sommaire
 ## Test-Driven Development (TDD)
 
 - [TDD : pour que votre code soit testable et testé!](https://www.youtube.com/watch?v=EW98_rwUQec) [youtube.com]
-
-
-## State management
-
-- [Redux docs](https://redux.js.org/introduction/getting-started) [US]
-- [NgRx docs](https://ngrx.io/guide/store) [US]
-- [Vuex docs](https://vuex.vuejs.org/) [US]
 
