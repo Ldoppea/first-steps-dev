@@ -59,7 +59,7 @@ Sommaire
 
 ## Déploiement continu (CD)
 
-🚧
+- [Livraison continue et déploiement continu](https://azure.microsoft.com/fr-fr/overview/continuous-delivery-vs-continuous-deployment/?WT.mc_id=firststeps-github-yolasors) [azure.microsoft.com] → `Quoi` `Pourquoi`
 
 # Conception
 
