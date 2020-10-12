@@ -1,29 +1,29 @@
-# C'est quoi ce site?
+# What's this site?
 
-Le monde du développement est vaste. Il y a plein de concepts à découvrir, d'outils à apprendre et de méthodologies à maitriser et il peut être difficile de savoir par où commencer.
+The world of software development is large. There are plenty of concepts to discover, tools to learn and methodologies to master and it can be difficult to know how to get started.
 
-Ceci est une liste qui regroupe des ressources gratuites qui pourront vous être utiles pour découvrir les divers concepts, outils et méthodologies liés au monde du développement.
+This is a list of free resources that you may find helpful in learning about various concepts, tools and methodologies related to software development.
 
-Chaque lien à sa place dans cette liste s'il peut aider un·e développeur·euse à découvrir le sujet en question.
+Every link has its place in this list if it can help a developer discover the topic in question.
 
 #### Tags
 
-Chaque lien peut être suffixé par un des 4 tags suivants afin de donner plus d'informations sur son contenu :
-- `Quoi` : le lien présente le concept, l'outil ou la méthodologie et explique ses fondements
-- `Pourquoi` : le lien explique dans quels cas un·e développeur·euse peut avoir besoin d'utiliser ce concept, cet outil ou cette méthodologie
-- `Comment` : le lien explique les bases nécessaires pour mettre en place ce concept, cet outil ou cette méthodologie
-- `Ressources` : le lien regroupe des ressources pour prendre en main ce concept, cet outil ou cette méthodologie
+Each link can be suffixed with one of the following 4 tags in order to give more information about its content:
 
-Bien sûr un lien peut couvrir plusieurs tags à la fois, dans quel chaque tags sera ajouté à la suite du lien dans l'ordre du plus représenté au moins représenté.
+- `What`: the link presents the concept, tool or methodology and explains its foundations
+- `Why`: the link explains in which cases a developer may need to use this concept, tool or methodology
+- `How`: the link explains the basics necessary to set up this concept, this tool or this methodology
+- `Resources`: the link groups together resources to learn about this concept, tool or methodology
 
-#### Contribuer au projet
+Of course a link can cover several tags at the same time, in that case each tag is added in the order from the most represented to the least represented.
 
-Vous pouvez contribuer à cette liste en créant une [Pull Request](https://github.com/Ldoppea/first-steps-dev) dans laquelle vous pourrez proposer un nouveau lien ou une nouvelle catégorie ou alors supprimer un lien qui ne serait plus actif.
+#### Contributing
 
-?> **Note:** Les liens proposés doivent être de préférence en Français, mais il est possible d'ajouter des liens Anglais si ceux-ci sont d'une très bonne qualité (dans ce dernier cas le suffixe `[🇺🇸]` peut être rajouté après le lien).
+You can contribute to this list by creating a [Pull Request] (https://github.com/Ldoppea/first-steps-dev/pulls) in which you can propose a new link or a new category.
 
+Take a look at the [Contributing guide](CONTRIBUTING.md) for more details.
 
-Sommaire
+Table of contents
 ========
 
 <!-- DO NOT MODIFY: auto-generated TOC will be inserted here -->
@@ -31,16 +31,15 @@ Sommaire
 
 # Architecture
 
-## Architecture hexagonale
+## Hexagonal
 
-- [Architecture hexagonale pour les nuls](https://www.youtube.com/watch?v=Hi5aDfRe-aE) [youtube.com] → `Quoi` `Pourquoi` `Comment`
-- [Architecture Hexagonale : Comment bien écrire ses tests ?](https://www.youtube.com/watch?v=4vBJAN3ttkc) [youtube.com] → `Comment`
+- [Hexagonal Architecture: three principles and an implementation example](https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/) [blog.octo.com]  → `What` `Why` `How`
 
 ## State management
 
-- [Redux docs](https://redux.js.org/introduction/getting-started) [US] → `Comment`
-- [NgRx docs](https://ngrx.io/guide/store) [US] → `Comment`
-- [Vuex docs](https://vuex.vuejs.org/) [US] → `Comment` `Quoi` `Pourquoi`
+- [Redux docs](https://redux.js.org/introduction/getting-started)
+- [NgRx docs](https://ngrx.io/guide/store)
+- [Vuex docs](https://vuex.vuejs.org/)
 
 ## Cloud
 
@@ -48,20 +47,20 @@ Sommaire
 
 # DevOps
 
-## Intégration continue (CI)
+## Continuous integration (CI)
 
 - [Réussir ses mises en prod grâce à l'intégration continue](https://www.youtube.com/watch?v=70LqFphGmC8) [youtube.com] → `Quoi` `Pourquoi`
 - [Pourquoi mettre en place de l'intégration continue](https://blog.soat.fr/2013/04/pourquoi-mettre-en-place-de-lintegration-continue/) [bloag.soat.fr] → `Pourquoi`
 - [L'intégration continue : qu'est-ce que c'est ?](https://blog.axopen.com/2019/07/lintegration-continue-quest-ce-que-cest/) [blog.axopen.com] → `Quoi` `Pourquoi`
 - [Awesome CI and CD](https://github.com/cicdops/awesome-ciandcd) [github.com][🇺🇸] → `Ressources`
 
-## Déploiement continu (CD)
+## Continuous deployment (CD)
 
 🚧
 
 # Conception
 
-## Accessibilité
+## Accessibility
 
 - [Qu'est ce que l'accessibilité?](https://developer.mozilla.org/fr/docs/Apprendre/a11y/What_is_accessibility) [developer.mozilla.org] → `Quoi` `Pourquoi` `Comment`
 - [Qu'est ce que l'inclusive design?](https://www.youtube.com/watch?v=ISjbFDcGqhA) [Youtube] → `Quoi` `Pourquoi`
@@ -70,15 +69,15 @@ Sommaire
 
 - [Introduction au Domain Driven Design](https://lesdieuxducode.com/blog/2019/7/introduction-au-domain-driven-design) [lesdieuxducode.com] → `Quoi`
 
-# Gestion de projet / Agilité
+# Project management / Agile development
 
 ## Retrospectives
 
 - [La rétrospective : qui ? quoi ? comment ?](https://blog.soat.fr/2018/12/retrospectives/) [blog.soat.fr] → `Quoi` `Pourquoi` `Comment`
 
-# Pratiques de développement
+# Development practices
 
-## Revue de code
+## Code reviews
 
 - [Principes et avantages de la revue de code](https://www.novaway.fr/blog/tech/principes-et-avantages-de-la-revue-de-code) [novaway.fr] → `Quoi` `Pourquoi` `Comment`
 - [Code review: comment faire une review constructive](https://practicalprogramming.fr/comment-faire-une-code-review/) [practicalprogramming.fr] → `Comment`
