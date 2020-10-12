@@ -1,4 +1,4 @@
 - Language
-  * [English :uk:](/)
-  * [Français :fr:](/fr/)
+  * [English](/)
+  * [Français](/fr/)
 - [Contributing](./CONTRIBUTING.md)
