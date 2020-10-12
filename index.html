@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="description" content="Tous les liens pour bien démarrer dans les bonnes pratiques de développement">
+  <meta name="description" content="Resources to get started quickly with software development practices">
+  <meta name="keywords" content="software,development,developer,get started,howto,tutorials,videos,doc,docs,documentation">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
   <title>First Steps for Developers</title>
@@ -23,7 +24,24 @@
     window.$docsify = {
       name: 'First Steps for Developers',
       repo: 'ldoppea/first-steps-dev',
-      search: ['/']
+      search: {
+        paths: [
+          '/',
+          'contributing',
+          '/fr/'
+        ],
+        placeholder: {
+          '/fr/': 'Rechercher',
+          '/': 'Type to search'
+        },
+        noData: {
+          '/fr/': 'Pas de résultats',
+          '/': 'No Results'
+        },
+        pathNamespaces: ['/fr'],        
+      },
+      loadNavbar: true,
+      plugins: [insertTOC]
     }
 
     // Small TOC plugin
@@ -31,16 +49,16 @@
       hook.doneEach(() => {
         const toc = document.querySelector('.toc');
         if (toc) {
-          const headings = Array.from(document.querySelectorAll('#main h1')).slice(3);
+          const headings = Array.from(document.querySelectorAll(`#main h1, #main h2`)).slice(2);
           let list = '';
           headings.forEach(h => {
-            list += `- [${h.children[0].innerHTML}](#${h.getAttribute('id')})\n`;
+            const level = parseFloat(h.tagName[1]);
+            list += `${Array(level).join('  ')}- [${h.children[0].innerHTML}](#${h.getAttribute('id')})\n`;
           });
           toc.innerHTML = vm.compiler.compile(list).trim();
         }
       });
     }
-    window.$docsify.plugins = [insertTOC];
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify-themeable"></script>
