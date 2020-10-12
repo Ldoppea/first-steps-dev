@@ -40,7 +40,8 @@
         },
         pathNamespaces: ['/fr'],        
       },
-      loadNavbar: true
+      loadNavbar: true,
+      plugins: [insertTOC]
     }
 
     // Small TOC plugin
@@ -48,16 +49,16 @@
       hook.doneEach(() => {
         const toc = document.querySelector('.toc');
         if (toc) {
-          const headings = Array.from(document.querySelectorAll('#main h1')).slice(3);
+          const headings = Array.from(document.querySelectorAll(`#main h1, #main h2`)).slice(2);
           let list = '';
           headings.forEach(h => {
-            list += `- [${h.children[0].innerHTML}](#${h.getAttribute('id')})\n`;
+            const level = parseFloat(h.tagName[1]);
+            list += `${Array(level).join('  ')}- [${h.children[0].innerHTML}](#${h.getAttribute('id')})\n`;
           });
           toc.innerHTML = vm.compiler.compile(list).trim();
         }
       });
     }
-    window.$docsify.plugins = [insertTOC];
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify-themeable"></script>
