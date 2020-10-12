@@ -59,6 +59,7 @@ Sommaire
 
 ## Déploiement continu (CD)
 
+- [Qu'est-ce que l'approche CI/CD ?](https://www.redhat.com/fr/topics/devops/what-is-ci-cd) [redhat.com] → `Ressources` `Quoi` `Pourquoi`
 - [Livraison continue et déploiement continu](https://azure.microsoft.com/fr-fr/overview/continuous-delivery-vs-continuous-deployment/?WT.mc_id=firststeps-github-yolasors) [azure.microsoft.com] → `Quoi` `Pourquoi`
 
 # Conception

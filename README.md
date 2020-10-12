@@ -53,6 +53,7 @@ Table of contents
 
 ## Continuous deployment (CD)
 
+- [What is CI/CD?](https://www.redhat.com/en/topics/devops/what-is-ci-cd) [redhat.com] → `Resources` `What` `Why`
 - [Continuous delivery vs. continuous deployment](https://azure.microsoft.com/overview/continuous-delivery-vs-continuous-deployment/?WT.mc_id=firststeps-github-yolasors) [azure.microsoft.com] → `What` `Why`
 
 # Conception
