@@ -19,7 +19,7 @@ Of course a link can cover several tags at the same time, in that case each tag 
 
 #### Contributing
 
-You can contribute to this list by creating a [Pull Request] (https://github.com/Ldoppea/first-steps-dev/pulls) in which you can propose a new link or a new category.
+You can contribute to this list by creating a [Pull Request](https://github.com/Ldoppea/first-steps-dev/pulls) in which you can propose a new link or a new category.
 
 Take a look at the [Contributing guide](CONTRIBUTING.md) for more details.
 
