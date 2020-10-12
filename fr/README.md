@@ -66,6 +66,7 @@ Sommaire
 ## Accessibilité
 
 - [Qu'est ce que l'accessibilité?](https://developer.mozilla.org/fr/docs/Apprendre/a11y/What_is_accessibility) [developer.mozilla.org] → `Quoi` `Pourquoi` `Comment`
+- [Qu'est ce que l'inclusive design?](https://www.youtube.com/watch?v=ISjbFDcGqhA) [youtube.com] → `Quoi` `Pourquoi`
 
 ## Domain Driven Design
 

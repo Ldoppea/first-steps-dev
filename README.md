@@ -37,52 +37,52 @@ Table of contents
 
 ## State management
 
-- [Redux docs](https://redux.js.org/introduction/getting-started)
-- [NgRx docs](https://ngrx.io/guide/store)
-- [Vuex docs](https://vuex.vuejs.org/)
+- [Redux docs](https://redux.js.org/introduction/getting-started) → `How`
+- [NgRx docs](https://ngrx.io/guide/store) → `How`
+- [Vuex docs](https://vuex.vuejs.org/) → `How` `What` `Why`
 
 ## Cloud
 
-- [12 factor app](https://12factor.net/fr/) [12factor.net] → `Quoi` `Pourquoi`
+- [12 factor app](https://12factor.net/) [12factor.net] → `What` `Why`
 
 # DevOps
 
 ## Continuous integration (CI)
 
-- [Réussir ses mises en prod grâce à l'intégration continue](https://www.youtube.com/watch?v=70LqFphGmC8) [youtube.com] → `Quoi` `Pourquoi`
-- [Pourquoi mettre en place de l'intégration continue](https://blog.soat.fr/2013/04/pourquoi-mettre-en-place-de-lintegration-continue/) [bloag.soat.fr] → `Pourquoi`
-- [L'intégration continue : qu'est-ce que c'est ?](https://blog.axopen.com/2019/07/lintegration-continue-quest-ce-que-cest/) [blog.axopen.com] → `Quoi` `Pourquoi`
-- [Awesome CI and CD](https://github.com/cicdops/awesome-ciandcd) [github.com][🇺🇸] → `Ressources`
+- [Awesome CI and CD](https://github.com/cicdops/awesome-ciandcd) [github.com] → `Resources`
 
 ## Continuous deployment (CD)
 
-🚧
+- [Continuous delivery vs. continuous deployment](https://azure.microsoft.com/overview/continuous-delivery-vs-continuous-deployment/?WT.mc_id=firststeps-github-yolasors) [azure.microsoft.com] → `What` `Why`
 
 # Conception
 
 ## Accessibility
 
-- [Qu'est ce que l'accessibilité?](https://developer.mozilla.org/fr/docs/Apprendre/a11y/What_is_accessibility) [developer.mozilla.org] → `Quoi` `Pourquoi` `Comment`
-- [Qu'est ce que l'inclusive design?](https://www.youtube.com/watch?v=ISjbFDcGqhA) [Youtube] → `Quoi` `Pourquoi`
+- [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) [developer.mozilla.org] → `What` `Why` `How`
 
 ## Domain Driven Design
 
-- [Introduction au Domain Driven Design](https://lesdieuxducode.com/blog/2019/7/introduction-au-domain-driven-design) [lesdieuxducode.com] → `Quoi`
+- [An Introduction to Domain Driven Design and Its Benefits](https://dzone.com/articles/an-introduction-to-domain-driven-design-and-its-be) [dzone.com] → `What` `Why`
 
 # Project management / Agile development
 
 ## Retrospectives
 
-- [La rétrospective : qui ? quoi ? comment ?](https://blog.soat.fr/2018/12/retrospectives/) [blog.soat.fr] → `Quoi` `Pourquoi` `Comment`
+- [What is a Sprint Retrospective?](https://www.scrum.org/resources/what-is-a-sprint-retrospective) [scrum.org] → `What` `Why` `Resources`
+- [Heartbeat Retrospective](https://www.agilealliance.org/glossary/heartbeatretro/) [agilealliance.org] → `What` `Why`
+- [Retrospective Playbook](https://www.atlassian.com/team-playbook/plays/retrospective#instructions) [atlassian.com] → `How`
 
 # Development practices
 
 ## Code reviews
 
-- [Principes et avantages de la revue de code](https://www.novaway.fr/blog/tech/principes-et-avantages-de-la-revue-de-code) [novaway.fr] → `Quoi` `Pourquoi` `Comment`
-- [Code review: comment faire une review constructive](https://practicalprogramming.fr/comment-faire-une-code-review/) [practicalprogramming.fr] → `Comment`
+- [Code Review Developer Guide](https://google.github.io/eng-practices/review/) [google.github.io] → `What` `How` `Resources`
+- [Code Review — The Ultimate Guide](https://www.freecodecamp.org/news/code-review-the-ultimate-guide-aa45c358bbf5/) [freecodecamp.org] → `Why` `How`
 
 ## Test-Driven Development (TDD)
 
-- [TDD : pour que votre code soit testable et testé!](https://www.youtube.com/watch?v=EW98_rwUQec) [youtube.com] → `Quoi` `Pourquoi` `Comment`
-
+- [Introduction to Test Driven Development](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92) [hackernoon.com] → `What` `Why` `How`
+- [An Introduction to Test Driven Development](https://accu.org/journals/overload/19/104/grenyer_1968/) [accu.org] → `What` `Why` `How`
+- [Introduction to Test Driven Development](https://youtu.be/F6jQV9sE9HE) [youtube.com] → `How` `What`
+- [What is Test Driven Development (TDD)? Tutorial with Example](https://www.guru99.com/test-driven-development.html) [guru99.com] → `What` `Why` `How`
