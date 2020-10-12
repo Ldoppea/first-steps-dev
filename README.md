@@ -37,9 +37,9 @@ Table of contents
 
 ## State management
 
-- [Redux docs](https://redux.js.org/introduction/getting-started) → `How`
-- [NgRx docs](https://ngrx.io/guide/store) → `How`
-- [Vuex docs](https://vuex.vuejs.org/) → `How` `What` `Why`
+- [Redux docs](https://redux.js.org/introduction/getting-started) [redux.js.org] → `How`
+- [NgRx docs](https://ngrx.io/guide/store) [ngrx.io] → `How`
+- [Vuex docs](https://vuex.vuejs.org) [vuejs.org] → `How` `What` `Why`
 
 ## Cloud
 

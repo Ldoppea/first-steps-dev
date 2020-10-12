@@ -40,9 +40,9 @@ Sommaire
 
 ## State management
 
-- [Redux docs](https://redux.js.org/introduction/getting-started) [:uk:] → `Comment`
-- [NgRx docs](https://ngrx.io/guide/store) [:uk:] → `Comment`
-- [Vuex docs](https://vuex.vuejs.org/) [:uk:] → `Comment` `Quoi` `Pourquoi`
+- [Redux docs](https://redux.js.org/introduction/getting-started) [redux.js.org] [:uk:] → `Comment`
+- [NgRx docs](https://ngrx.io/guide/store) [:uk:] [ngrx.io] → `Comment`
+- [Vuex docs](https://vuex.vuejs.org) [:uk:] [vuejs.org] → `Comment` `Quoi` `Pourquoi`
 
 ## Cloud
 
