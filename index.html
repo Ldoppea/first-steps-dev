@@ -31,7 +31,7 @@
       hook.doneEach(() => {
         const toc = document.querySelector('.toc');
         if (toc) {
-          const headings = Array.from(document.querySelectorAll('#main h1')).slice(2);
+          const headings = Array.from(document.querySelectorAll('#main h1')).slice(3);
           let list = '';
           headings.forEach(h => {
             list += `- [${h.children[0].innerHTML}](#${h.getAttribute('id')})\n`;
