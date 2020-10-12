@@ -2,7 +2,7 @@
 
 You can contribute to this project by creating a [Pull Request](https://github.com/Ldoppea/first-steps-dev/pulls). Contributors must abide to this project [Code of Conduct](CODE_OF_CONDUCT.md)
 
-For example, you can propose a new link, new category, delete a link that became invalid, fix typos or tags, or propose new ideas.
+For example, you can propose a new link, category, translation, delete a link that became invalid, fix typos or tags, or propose new ideas.
 
 Be sure to have a look to this checklist before submitting a new PR:
 
