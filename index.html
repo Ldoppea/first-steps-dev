@@ -23,7 +23,22 @@
     window.$docsify = {
       name: 'First Steps for Developers',
       repo: 'ldoppea/first-steps-dev',
-      search: ['/', '/fr/', '/contributing'],
+      search: {
+        paths: [
+          '/',
+          'contributing',
+          '/fr/'
+        ],
+        placeholder: {
+          '/': 'Type to search',
+          '/fr/': 'Rechercher'
+        },
+        noData: {
+          '/': 'No Results',
+          '/fr/': 'Pas de résultats',
+        },
+        pathNamespaces: ['/fr'],        
+      },
       loadNavbar: true
     }
 
