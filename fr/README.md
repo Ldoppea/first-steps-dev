@@ -15,11 +15,11 @@ Chaque lien peut être suffixé par un des 4 tags suivants afin de donner plus d
 - `Comment` : le lien explique les bases nécessaires pour mettre en place ce concept, cet outil ou cette méthodologie
 - `Ressources` : le lien regroupe des ressources pour prendre en main ce concept, cet outil ou cette méthodologie
 
-Bien sûr un lien peut couvrir plusieurs tags à la fois, dans quel case chaque tag est ajouté à la suite du lien dans l'ordre du plus représenté au moins représenté.
+Bien sûr un lien peut couvrir plusieurs tags à la fois, dans quel cas chaque tag est ajouté à la suite du lien dans l'ordre du plus représenté au moins représenté.
 
 #### Contribuer au projet
 
-Vous pouvez contribuer à cette liste en créant une [Pull Request](https://github.com/Ldoppea/first-steps-dev) dans laquelle vous pourrez proposer un nouveau lien ou une nouvelle catégorie ou alors supprimer un lien qui ne serait plus actif.
+Vous pouvez contribuer à cette liste en créant une [Pull Request](hhttps://github.com/Ldoppea/first-steps-dev/pulls) dans laquelle vous pourrez proposer un nouveau lien ou une nouvelle catégorie. Jetez un oeil au [Guide du contributeur](CONTRIBUTING.md) pour plus d'informations.
 
 ?> **Note:** Les liens proposés doivent être de préférence en Français, mais il est possible d'ajouter des liens Anglais si ceux-ci sont d'une très bonne qualité (dans ce dernier cas le suffixe `[:uk:]` peut être rajouté après le lien).
 
