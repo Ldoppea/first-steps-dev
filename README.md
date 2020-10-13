@@ -24,7 +24,7 @@ You can contribute to this list by creating a [Pull Request](https://github.com/
 Take a look at the [Contributing guide](CONTRIBUTING.md) for more details.
 
 Table of contents
-========
+=================
 
 <!-- DO NOT MODIFY: auto-generated TOC will be inserted here -->
 <section class="toc"></section>

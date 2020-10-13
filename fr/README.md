@@ -23,7 +23,6 @@ Vous pouvez contribuer à cette liste en créant une [Pull Request](hhttps://git
 
 ?> **Note:** Les liens proposés doivent être de préférence en Français, mais il est possible d'ajouter des liens Anglais si ceux-ci sont d'une très bonne qualité (dans ce dernier cas le suffixe `[:uk:]` peut être rajouté après le lien).
 
-
 Sommaire
 ========
 
