@@ -6,9 +6,9 @@ This is a list of free resources that you may find helpful in learning about var
 
 Every link has its place in this list if it can help a developer discover the topic in question.
 
-#### Tags
+**Tags**
 
-Each link can be suffixed with one of the following 4 tags in order to give more information about its content:
+Each link is suffixed with one of the following 4 tags in order to give more information about its content:
 
 - `What`: the link presents the concept, tool or methodology and explains its foundations
 - `Why`: the link explains in which cases a developer may need to use this concept, tool or methodology

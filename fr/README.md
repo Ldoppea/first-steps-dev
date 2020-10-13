@@ -6,9 +6,9 @@ Ceci est une liste qui regroupe des ressources gratuites qui pourront vous être
 
 Chaque lien à sa place dans cette liste s'il peut aider un·e développeur·euse à découvrir le sujet en question.
 
-#### Tags
+**Tags**
 
-Chaque lien peut être suffixé par un des 4 tags suivants afin de donner plus d'informations sur son contenu :
+Chaque lien est suffixé par un des 4 tags suivants afin de donner plus d'informations sur son contenu :
 
 - `Quoi` : le lien présente le concept, l'outil ou la méthodologie et explique ses fondements
 - `Pourquoi` : le lien explique dans quels cas un·e développeur·euse peut avoir besoin d'utiliser ce concept, cet outil ou cette méthodologie
