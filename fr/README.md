@@ -89,3 +89,8 @@ Sommaire
 
 - [TDD : pour que votre code soit testable et testé!](https://www.youtube.com/watch?v=EW98_rwUQec) [youtube.com] → `Quoi` `Pourquoi` `Comment`
 
+## Programmation en binôme
+
+- [Pair programming: Coder en binôme, bonne ou très bonne idée ?](https://www.apollo-formation.com/developpement/pair-programming-coder-en-binome.html) [apollo-formation.com] → `Quoi` `Pourquoi` `Comment`
+- [The Benefits of Pair Programming](https://medium.com/better-programming/when-pair-programming-works-it-works-really-well-heres-why-c51857bbcf0f) [medium.com][:uk:] → `Quoi` `Pourquoi`
+
