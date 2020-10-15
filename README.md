@@ -87,3 +87,8 @@ Table of contents
 - [An Introduction to Test Driven Development](https://accu.org/journals/overload/19/104/grenyer_1968/) [accu.org] → `What` `Why` `How`
 - [Introduction to Test Driven Development](https://youtu.be/F6jQV9sE9HE) [youtube.com] → `How` `What`
 - [What is Test Driven Development (TDD)? Tutorial with Example](https://www.guru99.com/test-driven-development.html) [guru99.com] → `What` `Why` `How`
+
+## Pair programming
+
+- [Pair Programming Guide](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389) [medium.com] → `What` `Why` `How`
+- [The Benefits of Pair Programming](https://medium.com/better-programming/when-pair-programming-works-it-works-really-well-heres-why-c51857bbcf0f) [medium.com] → `What` `Why`
