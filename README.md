@@ -68,6 +68,11 @@ Table of contents
 
 # Project management / Agile development
 
+## eXtreme Programming (XP)
+
+ - [What is Extreme Programming (XP)?](https://www.agilealliance.org/glossary/xp/#:~:text=Extreme%20Programming%20(XP)%20is%20an,engineering%20practices%20for%20software%20development.) [agilealliance.org] → `What` `Why` `How`
+ - [Extreme Programming for Beginners made Easy – Roles & Practices](https://pm-training.net/extreme-programming-beginners/) [pm-training.net] → `Why` `How`
+
 ## Retrospectives
 
 - [What is a Sprint Retrospective?](https://www.scrum.org/resources/what-is-a-sprint-retrospective) [scrum.org] → `What` `Why` `Resources`
