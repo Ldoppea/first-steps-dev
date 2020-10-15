@@ -74,6 +74,11 @@ Sommaire
 
 # Gestion de projet / Agilité
 
+## eXtreme Programming (XP)
+
+ - [Qu'est-ce que la méthode eXtreme Programming ?](https://www.planzone.fr/blog/quest-ce-que-la-methodologie-extreme-programming) [planzone.fr] → `Quoi` `Pourquoi`
+ - [Extreme Programming for Beginners made Easy – Roles & Practices](https://pm-training.net/extreme-programming-beginners/) [pm-training.net] [:uk:] → `Pourquoi` `Comment`
+
 ## Retrospectives
 
 - [La rétrospective : qui ? quoi ? comment ?](https://blog.soat.fr/2018/12/retrospectives/) [blog.soat.fr]
