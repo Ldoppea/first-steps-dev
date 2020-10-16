@@ -15,3 +15,8 @@ Be sure to have a look to this checklist before submitting a new PR:
    * `Why`: the link explains in what cases a developer may need to use this concept, tool or methodology
    * `How`: the link explains the basics necessary to set up this concept, this tool or this methodology
    * `Resources`: the link groups together resources to learn about this concept, tool or methodology
+
+Also please consider the following rules:
+
+- Please limit your Pull Requests to 1 category to ease the review and validation process
+- This is not a place to promote all your blog post, please do not spam all your posts
