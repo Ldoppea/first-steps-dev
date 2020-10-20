@@ -66,6 +66,13 @@ Table of contents
 
 - [An Introduction to Domain Driven Design and Its Benefits](https://dzone.com/articles/an-introduction-to-domain-driven-design-and-its-be) [dzone.com] → `What` `Why`
 
+# Paradigm
+
+## Functional Programming
+- [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)[egghead.io] → `What` `Why` `How`
+
+## Fun
+
 # Project management / Agile development
 
 ## eXtreme Programming (XP)
