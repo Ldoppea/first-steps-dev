@@ -71,8 +71,6 @@ Table of contents
 ## Functional Programming
 - [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)[egghead.io] → `What` `Why` `How`
 
-## Fun
-
 # Project management / Agile development
 
 ## eXtreme Programming (XP)
