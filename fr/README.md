@@ -71,6 +71,7 @@ Sommaire
 ## Domain Driven Design
 
 - [Introduction au Domain Driven Design](https://lesdieuxducode.com/blog/2019/7/introduction-au-domain-driven-design) [lesdieuxducode.com] → `Quoi`
+- [Domain-Driven Design Vite fait](https://www.infoq.com/fr/minibooks/domain-driven-design-quickly/) [infoQ] → `Quoi` `Pourquoi` `Comment`
 
 # Gestion de projet / Agilité
 

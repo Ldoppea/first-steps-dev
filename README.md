@@ -65,6 +65,7 @@ Table of contents
 ## Domain Driven Design
 
 - [An Introduction to Domain Driven Design and Its Benefits](https://dzone.com/articles/an-introduction-to-domain-driven-design-and-its-be) [dzone.com] → `What` `Why`
+- [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/) [infoQ] → `What` `Why` `How`
 
 # Project management / Agile development
 
