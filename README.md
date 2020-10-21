@@ -66,6 +66,7 @@ Table of contents
 
 - [An Introduction to Domain Driven Design and Its Benefits](https://dzone.com/articles/an-introduction-to-domain-driven-design-and-its-be) [dzone.com] → `What` `Why`
 - [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/) [infoQ] → `What` `Why` `How`
+- [Domain Driven Design website](https://dddcommunity.org/) → `What` `Why` `How`
 
 # Paradigm
 
