@@ -100,3 +100,7 @@ Sommaire
 - [Pair programming: Coder en binôme, bonne ou très bonne idée ?](https://www.apollo-formation.com/developpement/pair-programming-coder-en-binome.html) [apollo-formation.com] → `Quoi` `Pourquoi` `Comment`
 - [The Benefits of Pair Programming](https://medium.com/better-programming/when-pair-programming-works-it-works-really-well-heres-why-c51857bbcf0f) [medium.com][:uk:] → `Quoi` `Pourquoi`
 
+## Dette technique
+
+- [La dette technique: une supercherchie mythologique pour galériens de l'IT](https://medium.com/@waxzce/la-dette-technique-une-supercherie-mythologique-pour-gal%C3%A9riens-de-lit-7ed0dfbf39c7) [medium.com] → `Quoi` `Pourquoi`
+
