@@ -104,3 +104,12 @@ Table of contents
 
 - [Pair Programming Guide](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389) [medium.com] → `What` `Why` `How`
 - [The Benefits of Pair Programming](https://medium.com/better-programming/when-pair-programming-works-it-works-really-well-heres-why-c51857bbcf0f) [medium.com] → `What` `Why`
+
+# Programming languages
+
+## JavaScript
+- [Beginner's Series to: JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) [youtube.com] → `How`, `What`, `Why`
+- [Beginner's Series to: Node.js](https://www.youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) [youtube.com] → `How`, `What`, `Why`
+
+## Python
+- [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) [youtube.com] → `How`, `What`, `Why`
