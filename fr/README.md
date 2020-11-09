@@ -73,6 +73,12 @@ Sommaire
 - [Introduction au Domain Driven Design](https://lesdieuxducode.com/blog/2019/7/introduction-au-domain-driven-design) [lesdieuxducode.com] → `Quoi`
 - [Domain-Driven Design Vite fait](https://www.infoq.com/fr/minibooks/domain-driven-design-quickly/) [infoQ] → `Quoi` `Pourquoi` `Comment`
 
+# Paradigmes
+
+## Informatique quantique
+
+- [Qu'est ce qu'un ordinateur quantique? Le modèle du circuit](https://www.youtube.com/watch?v=kletYD2UFTs) [youtube.com] → `Quoi` `Pourquoi` `Comment`
+
 # Gestion de projet / Agilité
 
 ## eXtreme Programming (XP)
