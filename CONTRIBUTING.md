@@ -6,7 +6,7 @@ For example, you can propose a new link, category, translation, delete a link th
 
 Be sure to have a look to this checklist before submitting a new PR:
 
-- [ ] The proposed link should target content preferably in the same language as the list it's added to. You can however propose English content to non-english lists if it's high quality and add the `[:uk:]` suffix after the link.
+- [ ] The proposed link should target content in the same language as the list it's added to.
 - [ ] The linked content is free and non-gated (i.e. it should not require a subscription to access it).
 - [ ] The linked content does not contain any offensive material of any sort that would result in a breach of the [Code of Conduct](CODE_OF_CONDUCT.md).
 - [ ] The linked content is added to an existing category or a new created one. If you are not sure of the category you may create your PR as a draft and start a discussion about it.
