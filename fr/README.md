@@ -21,8 +21,6 @@ Bien sûr un lien peut couvrir plusieurs tags à la fois, dans quel cas chaque t
 
 Vous pouvez contribuer à cette liste en créant une [Pull Request](hhttps://github.com/Ldoppea/first-steps-dev/pulls) dans laquelle vous pourrez proposer un nouveau lien ou une nouvelle catégorie. Jetez un oeil au [Guide du contributeur](CONTRIBUTING.md) pour plus d'informations.
 
-?> **Note:** Les liens proposés doivent être de préférence en Français, mais il est possible d'ajouter des liens Anglais si ceux-ci sont d'une très bonne qualité (dans ce dernier cas le suffixe `[:uk:]` peut être rajouté après le lien).
-
 Sommaire
 ========
 
@@ -37,12 +35,6 @@ Sommaire
 - [Architecture Hexagonale : Comment bien écrire ses tests ?](https://www.youtube.com/watch?v=4vBJAN3ttkc) [youtube.com] → `Comment`
 - [Architecture Hexagonale : trois principes et un exemple d’implémentation](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/) [blog.octo.com] → `Quoi` `Pourquoi` `Comment`
 
-## State management
-
-- [Redux docs](https://redux.js.org/introduction/getting-started) [redux.js.org] [:uk:] → `Comment`
-- [NgRx docs](https://ngrx.io/guide/store) [:uk:] [ngrx.io] → `Comment`
-- [Vuex docs](https://vuex.vuejs.org) [:uk:] [vuejs.org] → `Comment` `Quoi` `Pourquoi`
-
 ## Cloud
 
 - [12 factor app](https://12factor.net/fr/) [12factor.net] → `Quoi` `Pourquoi`
@@ -54,7 +46,6 @@ Sommaire
 - [Réussir ses mises en prod grâce à l'intégration continue](https://www.youtube.com/watch?v=70LqFphGmC8) [youtube.com] → `Quoi` `Pourquoi`
 - [Pourquoi mettre en place de l'intégration continue](https://blog.soat.fr/2013/04/pourquoi-mettre-en-place-de-lintegration-continue/) [bloag.soat.fr] → `Pourquoi`
 - [L'intégration continue : qu'est-ce que c'est ?](https://blog.axopen.com/2019/07/lintegration-continue-quest-ce-que-cest/) [blog.axopen.com] → `Quoi` `Pourquoi`
-- [Awesome CI and CD](https://github.com/cicdops/awesome-ciandcd) [github.com][:uk:] → `Ressources`
 
 ## Déploiement continu (CD)
 
@@ -78,7 +69,6 @@ Sommaire
 ## eXtreme Programming (XP)
 
  - [Qu'est-ce que la méthode eXtreme Programming ?](https://www.planzone.fr/blog/quest-ce-que-la-methodologie-extreme-programming) [planzone.fr] → `Quoi` `Pourquoi`
- - [Extreme Programming for Beginners made Easy – Roles & Practices](https://pm-training.net/extreme-programming-beginners/) [pm-training.net] [:uk:] → `Pourquoi` `Comment`
 
 ## Retrospectives
 
@@ -98,7 +88,6 @@ Sommaire
 ## Programmation en binôme
 
 - [Pair programming: Coder en binôme, bonne ou très bonne idée ?](https://www.apollo-formation.com/developpement/pair-programming-coder-en-binome.html) [apollo-formation.com] → `Quoi` `Pourquoi` `Comment`
-- [The Benefits of Pair Programming](https://medium.com/better-programming/when-pair-programming-works-it-works-really-well-heres-why-c51857bbcf0f) [medium.com][:uk:] → `Quoi` `Pourquoi`
 
 ## Dette technique
 

@@ -6,6 +6,8 @@ This is a list of free resources that you may find helpful in learning about var
 
 Every link has its place in this list if it can help a developer discover the topic in question.
 
+?> You can find resources in your language by using the top right menu. If your language is not there, you can help us by adding your language with a [Pull Request](CONTRIBUTING.md).
+
 **Tags**
 
 Each link is suffixed with one of the following 4 tags in order to give more information about its content:
