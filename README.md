@@ -115,3 +115,8 @@ Table of contents
 
 ## Python
 - [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) [youtube.com] → `How`, `What`, `Why`
+
+# Tools
+
+## Command-line
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) [github.com] → `How`, `Why`
